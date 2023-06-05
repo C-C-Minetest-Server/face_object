@@ -1,7 +1,7 @@
 minetest.register_entity("face_object_example:example_sam",{
 	initial_properties = {
 		visual = "mesh",
-		mesh = "character.b3d",
+		mesh = "character.b3d", -- from player_api, set to optional depends just for CDB to work
 		animation_speed = 30,
 		textures = {"character.png"},
 		collisionbox = {-0.3, 0.0, -0.3, 0.3, 1.7, 0.3},
