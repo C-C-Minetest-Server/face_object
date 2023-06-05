@@ -1,0 +1,12 @@
+{
+    "type": "MOD",
+    "title": "Face Objects",
+    "name": "face_objects",
+    "short_description": "Calculate the facing of objects",
+    "dev_state": "BETA",
+    "tags": ["library"],
+    "license": "MIT",
+    "media_license": "MIT",
+    "repo": "https://github.com/C-C-Minetest-Server/face_object",
+    "issue_tracker": "https://github.com/C-C-Minetest-Server/face_object/issues"
+}
